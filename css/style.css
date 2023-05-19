@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Slab:wght@600&display=swap');
+@import url('header.css');
+@import url('sections.css');
+@import url('footer.css');
+
+:root{
+    --font-text: 'Roboto', sans-serif;
+    --font-title: 'Roboto Slab', serif;
+    --preto: #000;
+    --branco: #f6f6f6;
+    --hover: #0F3D3E;
+}
